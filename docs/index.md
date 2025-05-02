@@ -1,4 +1,4 @@
-## Protect Your Device at Industry Events
+## Protect Your Device at Industry Events 
 
 **Attending or speaking at a large-scale conference or niche industry meetup?** Watch out for radio fingerprinting + ad-network matchmaking. Vendors promise sponsors and organizers that they can profile every device in the room and retarget you with unwanted ads—often for token pre‑sales, crypto pitches or remarketing campaigns you never opted into.
 
